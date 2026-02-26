@@ -2,7 +2,8 @@
 
 <h1 align="center">Добро пожаловать в мой гитхаб, я Алина !</h1>
 ##⭐️О себе
-<img src="https://i.pinimg.com/736x/77/0f/66/770f66fc12e0c6d0346a54619580f61c.jpg"width="200" 
+<img src="https://github.com/user-attachments/assets/0096fd41-9f7d-4735-b74e-472802944e5e"
+"width="200" 
        align="right" 
        style="margin-left: 20px; border-radius: 15px;>
        
