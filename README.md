@@ -11,9 +11,8 @@
 ---
 
 <h1> Навыки⚙️</h1>
-From slicing through Python code like a samurai to backtesting strategies with ninja precision, I'm always chasing the next level. Add a lo-fi anime OST, and I'm unstoppable. Let's grind, trade, and vibe! 🎵
 <p align="center">
-  <img src="[https://www.python.org/static/community_logos/python-logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png)" width="80"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" />
 </p>
 
 ## 🛠️ Tech Stack & Arsenal
