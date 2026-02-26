@@ -23,17 +23,15 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=especiallynight" alt="GitHub Stats"/>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
 </p>
 
-<!-- Альтернатива 2: GitHub Readme Stats (копия сервиса) -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-phi.vercel.app/api?username=especiallynight&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=especiallynight&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
-<!-- Альтернатива 3: Профильные метрики -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/especiallynight" alt="GitHub Metrics"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
 </p>
 
 ## 🚀 Epic Projects & Quests
