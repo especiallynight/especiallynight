@@ -18,7 +18,7 @@
 
 
 
-## 📊 GitHub статистика
+## 📊<h1>GitHub статистика</h1>
 
 <p align="center">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
@@ -32,11 +32,10 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
 </p>
 
-## ☀️Проекты
+## ☀️<h1>Проекты</h1>
 <div class="project">
-  <h3>Task manager</h3>
   <a href="https://github.com/especiallynight/logging-and-tracing.git" target="_blank" rel="noopener noreferrer">
-    Посмотреть репозиторий
+    Task manager
   </a>
 </div>
 
