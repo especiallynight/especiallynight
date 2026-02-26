@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" />
+<img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width ="100%"/>
 
 <h1 align="center">👋 Deno Roy! 🎮✨</h1>
 <p align="center">
