@@ -41,6 +41,12 @@
 
 ## 💬 Мои соц-сети
 <h2>Готова дать обратную связь!</h2>
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/x1ngton) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alinaslef238@gmail.com)
+
+<a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="mailto:alinaslef238@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
