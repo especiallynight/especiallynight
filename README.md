@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/0096fd41-9f7d-4735-b74e-472802944e5e" 
      width="200" 
-     height="170"
+     height="190"
      align="right" 
      style="margin-left: 20px; border-radius: 15px;" />
      
@@ -15,7 +15,8 @@
 </p>
 
 <div style="clear: both;"></div>
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
+
 ## ⚙️Навыки
 <p align="center">
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
