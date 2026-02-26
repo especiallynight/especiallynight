@@ -18,38 +18,20 @@
   <img src="https://raima.com/wp-content/uploads/adonet.png" width="70" />
 </p>
 
-## 🛠️ Tech Stack & Arsenal
-My toolkit for coding, trading, and slaying projects:
 
-- Languages & Runtimes: Python, JavaScript, TypeScript
-- Frameworks & Tools: FastAPI, Pandas, NumPy, TensorFlow, Backtrader, TradingView/ PineScript
-- DB / Infra: MongoDB, Redis, Docker
-- Bots & Messaging: Telegram Bot API
 
-<!-- Примеры иконок/бейджей -->
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Grind
+## 📊 GitHub статистика
 
 <p align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=dark"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=especiallynight&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
 </p>
 
 ---
