@@ -14,8 +14,8 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
   <img src="https://andreyex.ru/wp-content/uploads/2023/10/C-C-Sharp.png" width="70" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="70" />
-  <img src="https://cp.beget.com/shared/n1byxn-jiJ9JcOXKDHTsER-FivGDMS94/ubuntu.png" width="70" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" width="70" />
+  <img src="https://raima.com/wp-content/uploads/adonet.png" width="70" />
 </p>
 
 ## 🛠️ Tech Stack & Arsenal
