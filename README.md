@@ -34,7 +34,7 @@
 
 ## <h1>☀️Проекты</h1>
 <div class="project">
-  <a href="https://github.com/especiallynight/logging-and-tracing.git" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/especiallynight/logging-and-tracing" target="_blank" rel="noopener noreferrer">
     <h2>Task manager</h2>
   </a>
 </div>
