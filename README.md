@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  A Python-slinging, algo-trading, anime-loving dreamer on a quest to conquer code and markets! 🚀
-</p>
-
-<p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="80"/>
 </p>
 
