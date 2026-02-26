@@ -41,7 +41,7 @@
 
 ## 💬 Мои соц-сети
 <h2>Готова дать обратную связь!</h2>
-<a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+<a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer" style="margin-right: 60px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" width="90" alt="Telegram">
 </a>
 <a href="mailto:alinaslef238@gmail.com">
