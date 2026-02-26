@@ -1,7 +1,9 @@
 <img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width="100%" />
 
 <h1 align="center">Добро пожаловать в мой гитхаб, я Алина !</h1>
-##⭐️О себе
+
+## ⭐️О себе
+
 <img src="https://github.com/user-attachments/assets/0096fd41-9f7d-4735-b74e-472802944e5e" 
      width="200" 
      align="right" 
@@ -13,7 +15,7 @@
 
 <div style="clear: both;"></div>
 
-##⚙️Навыки
+## ⚙️Навыки
 <p align="center">
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
   <img src="https://andreyex.ru/wp-content/uploads/2023/10/C-C-Sharp.png" width="70" />
