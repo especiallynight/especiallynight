@@ -23,18 +23,19 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
+  <!-- Было: vercel.app -->
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.com/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=especiallynight&show_icons=true&count_private=true&theme=dark"/>
+  <!-- Было: vercel.app -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.com/api?username=especiallynight&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 <p align="center">
+  <!-- Этот работает через другой сервис, его не меняем -->
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
 </p>
-
----
 
 ## 🚀 Epic Projects & Quests
 - Crypto Scanner Bot 🔎 — Real-time market scanner with Telegram alerts, ninja-fast.
