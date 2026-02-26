@@ -1,4 +1,3 @@
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/3329fd31-ae27-4fde-8381-1bd2fe9d54a7" /><img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width ="100%"/>
 
 <h1 align="center">Добро пожаловать в мой гитхаб, я Алина !</h1>
 <h1>О себе⭐️</h1>
