@@ -23,18 +23,17 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <!-- Было: vercel.app -->
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.com/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=especiallynight" alt="GitHub Stats"/>
 </p>
 
+<!-- Альтернатива 2: GitHub Readme Stats (копия сервиса) -->
 <p align="center">
-  <!-- Было: vercel.app -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.com/api?username=especiallynight&show_icons=true&count_private=true&theme=dark"/>
+  <img src="https://github-readme-stats-eight-phi.vercel.app/api?username=especiallynight&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
+<!-- Альтернатива 3: Профильные метрики -->
 <p align="center">
-  <!-- Этот работает через другой сервис, его не меняем -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
+  <img src="https://metrics.lecoq.io/especiallynight" alt="GitHub Metrics"/>
 </p>
 
 ## 🚀 Epic Projects & Quests
