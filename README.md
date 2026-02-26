@@ -7,8 +7,6 @@
 </p>
 
 
----
-
 <h1>⚙️Навыки</h1>
 <p align="center">
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
@@ -34,24 +32,15 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
 </p>
 
-## 🚀 Epic Projects & Quests
-- Crypto Scanner Bot 🔎 — Real-time market scanner with Telegram alerts, ninja-fast.
-- TradingView RSI + Trend Strategy 📈 — PineScript strategy with SL/TP and partial exits for max gains.
-- AI Chart Pattern Shinobi 🤖 — TensorFlow-powered pattern recognition for trading edges.
-- Swing Trading Auto Scanner ⚙️ — Screener bot for spotting high-probability setups.
-- Deni Social Media Bot ✨ — Posting bot with flair, powered by FastAPI + MongoDB.
-- Backtrader AI Framework 🧠 — MongoDB-backed trading system with AI-driven insights.
+## ☀️Проекты
+<div class="project">
+  <h3>Task manager</h3>
+  <a href="https://github.com/especiallynight/logging-and-tracing.git" target="_blank" rel="noopener noreferrer">
+    Посмотреть репозиторий
+  </a>
+</div>
 
-(Level up with my repos!)
 
----
-
-## 🎯 My Mission & Endgame
-- Grinding Now: Mastering AI x Finance for next-gen trading systems.
-- Ultimate Quest: Build an AI-powered "Aladdin" to dominate markets and automation.
-- Side Quests: Sharpening trading edges, conquering college, and indie hacking like a pro.
-
----
 
 ## 💬 Let's Team Up!
 Ready to vibe on code, charts, or anime? Hit me up!
