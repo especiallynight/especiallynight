@@ -6,16 +6,15 @@
   Учусь в колледже Ithub в Москве на специальность net-разработчика,с детства любила математику,а будучи подростком начала изучать программирование(курс Python на stepik и C++),писала тг ботов на Python,одностраничные сайты,сейчас основной язык С#, являюсь трудолюбивым и целеустремленным человеком,всегда открыта новому опыту
 </p>
 
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="80"/>
-</p>
+
 
 ---
 
-<h1><b> Навыки </b></h1>
+<h1> Навыки⚙️</h1>
 From slicing through Python code like a samurai to backtesting strategies with ninja precision, I'm always chasing the next level. Add a lo-fi anime OST, and I'm unstoppable. Let's grind, trade, and vibe! 🎵
-
----
+<p align="center">
+  <img src="[https://www.python.org/static/community_logos/python-logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png)" width="80"/>
+</p>
 
 ## 🛠️ Tech Stack & Arsenal
 My toolkit for coding, trading, and slaying projects:
