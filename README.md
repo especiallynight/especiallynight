@@ -2,14 +2,16 @@
 
 <h1 align="center">Добро пожаловать в мой гитхаб, я Алина !</h1>
 ##⭐️О себе
-<img src="https://github.com/user-attachments/assets/0096fd41-9f7d-4735-b74e-472802944e5e"
-"width="200" 
-       align="right" 
-       style="margin-left: 20px; border-radius: 15px;>
-       
+<img src="https://github.com/user-attachments/assets/0096fd41-9f7d-4735-b74e-472802944e5e" 
+     width="200" 
+     align="right" 
+     style="margin-left: 20px; border-radius: 15px;" />
+     
 <p align="center">
   Учусь в колледже Ithub в Москве на специальность net-разработчика,с детства любила математику,а будучи подростком начала изучать программирование(курс Python на stepik и C++),писала тг ботов на Python,одностраничные сайты,сейчас основной язык С#, являюсь трудолюбивым и целеустремленным человеком,всегда открыта новому опыту
 </p>
+
+<div style="clear: both;"></div>
 
 ##⚙️Навыки
 <p align="center">
