@@ -7,7 +7,7 @@
 </p>
 
 
-<h1>⚙️Навыки</h1>
+##⚙️Навыки
 <p align="center">
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
   <img src="https://andreyex.ru/wp-content/uploads/2023/10/C-C-Sharp.png" width="70" />
@@ -18,7 +18,7 @@
 
 
 
-## <h1>📊GitHub статистика</h1>
+## 📊GitHub статистика
 
 <p align="center">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=especiallynight&layout=compact&theme=dark"/>
@@ -32,7 +32,7 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=especiallynight&theme=dark"/>
 </p>
 
-## <h1>☀️Проекты</h1>
+## ☀️Проекты
 <h2><a href="https://github.com/especiallynight/logging-and-tracing" target="_blank" rel="noopener noreferrer">Task manager</a></h2>
 <h2><a href="https://github.com/especiallynight/ManicureWebsite" target="_blank" rel="noopener noreferrer">Manicure Website</a></h2>
 <h2><a href="https://github.com/especiallynight/traps_game" target="_blank" rel="noopener noreferrer">Traps Game</a></h2>
@@ -40,7 +40,7 @@
 
 
 ## 💬 Мои соц-сети
-Готова дать обратную связь!
+<h2>Готова дать обратную связь!</h2>
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/x1ngton) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alinaslef238@gmail.com)
 
