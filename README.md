@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width ="100%"/>
 
-<h1 align="center">👋 Deno Roy! 🎮✨</h1>
+<h1 align="center">Добро пожаловать в мой гитхаб, я Алина :3</h1>
 <p align="center">
   Vibing to epic beats 🎧 | Coding trading bots 🤖 | Charting markets like a shinobi 🗡️
 </p>
