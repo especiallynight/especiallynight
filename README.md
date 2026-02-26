@@ -1,3 +1,12 @@
+<style>
+  .social-link {
+    margin-right: 50px;
+  }
+  .social-link:last-child {
+    margin-right: 0;
+  }
+</style>
+
 <img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width="100%" />
 
 <h1 align="center">Добро пожаловать в мой гитхаб, я Алина !</h1>
@@ -41,11 +50,11 @@
 
 ## 💬 Мои соц-сети
 <h2>Готова дать обратную связь!</h2>
-<a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer" style="margin-right: 60px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" width="90" alt="Telegram">
-</a>
-<a href="mailto:alinaslef238@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="90" alt="Email">
-</a>
-
-
+<p align="center">
+  <a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer" class="social-link">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" width="90" alt="Telegram">
+  </a>
+  <a href="mailto:alinaslef238@gmail.com" class="social-link">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="90" alt="Email">
+  </a>
+</p>
