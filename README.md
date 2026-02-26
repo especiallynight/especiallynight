@@ -35,6 +35,7 @@
 ## <h1>☀️Проекты</h1>
 <h2><a href="https://github.com/especiallynight/logging-and-tracing" target="_blank" rel="noopener noreferrer">Task manager</a></h2>
 <h2><a href="https://github.com/especiallynight/ManicureWebsite" target="_blank" rel="noopener noreferrer">Manicure Website</a></h2>
+<h2><a href="https://github.com/especiallynight/traps_game" target="_blank" rel="noopener noreferrer">Traps Game</a></h2>
 
 
 
