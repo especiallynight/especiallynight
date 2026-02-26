@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width ="100%"/>
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/3329fd31-ae27-4fde-8381-1bd2fe9d54a7" /><img src="https://i.pinimg.com/736x/26/31/85/26318593adcdbcd7e71aeb16fc3e1ae6.jpg" width ="100%"/>
 
 <h1 align="center">Добро пожаловать в мой гитхаб, я Алина !</h1>
 <h1>О себе⭐️</h1>
@@ -15,6 +15,8 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
   <img src="https://andreyex.ru/wp-content/uploads/2023/10/C-C-Sharp.png" width="70" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="70" />
+  <img src="https://cp.beget.com/shared/n1byxn-jiJ9JcOXKDHTsER-FivGDMS94/ubuntu.png" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" width="70" />
 </p>
 
 ## 🛠️ Tech Stack & Arsenal
