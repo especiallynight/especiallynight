@@ -1,6 +1,6 @@
 <style>
   .social-link {
-    margin: 50px;
+    padding: 50px;
   }
   .social-link:last-child {
     margin-right: 0;
