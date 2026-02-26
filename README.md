@@ -1,6 +1,6 @@
 <style>
   .social-link {
-    padding: 50px;
+    margin: 50px;
   }
   .social-link:last-child {
     margin-right: 0;
@@ -49,7 +49,7 @@
 
 
 ## 💬 Мои соц-сети
-<h2>Готова дать обратную связь!</h2>
+<h3>Готова дать обратную связь!</h3>
 <p align="center">
   <a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer" class="social-link">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" width="90" alt="Telegram">
