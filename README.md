@@ -51,10 +51,11 @@
 ## 💬 Мои соц-сети
 <h3>Готова дать обратную связь!</h3>
 <p align="center">
-  <a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer" class="social-link">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" width="90" alt="Telegram">
+  <a href="https://t.me/x1ngton" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:alinaslef238@gmail.com" class="social-link">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="90" alt="Email">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alinaslef238@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
