@@ -12,7 +12,7 @@
 
 ---
 
-## 🎧 My Vibe Statement
+<h1><b> Навыки </b></h1>
 From slicing through Python code like a samurai to backtesting strategies with ninja precision, I'm always chasing the next level. Add a lo-fi anime OST, and I'm unstoppable. Let's grind, trade, and vibe! 🎵
 
 ---
