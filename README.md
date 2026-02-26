@@ -12,7 +12,7 @@
 
 <h1> Навыки⚙️</h1>
 <p align="center">
-  <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width=60 />
+  <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" width="70" />
 </p>
 
 ## 🛠️ Tech Stack & Arsenal
